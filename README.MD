@@ -2,7 +2,7 @@
 
 This project is an implementation of the tic-tac-toe game. Built with Spring Boot and Websocket API.
 
-<div style="display: flex; justify-content: space-between; height: 450px;">
+<div style="display: flex; justify-content: space-between; height: 450px; width: 100%;">
   <img src="./images/Menu_View.webp" alt="Gameplay Screenshot" width="45%"  />
   <img src="./images/Game_View.webp" alt="Gameplay Screenshot" width="45%" " />
 </div>
